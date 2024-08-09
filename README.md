@@ -21,7 +21,8 @@ satellite_image_classifier.h5: The saved trained model (optional, depending on f
 Before running the project, ensure you have Python 3.11 installed.
 
 ## Dataset
-The EuroSAT RGB dataset, used in this project, is available for download here. The dataset consists of 27,000 images categorized into ten different land cover classes:
+The EuroSAT RGB dataset, used in this project, is available for download here https://zenodo.org/records/7711810#.ZAm3k-zMKEA. The dataset consists of 27,000 images categorized into ten different land cover classes:
+
 
 1. AnnualCrop
 2. Forest
