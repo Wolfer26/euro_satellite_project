@@ -8,7 +8,7 @@ The objective of this project is to develop a machine learning model capable of 
 
 ## Repository Structure
 
-notebooks: Contains the Jupyter notebook `satellite_image_classification.ipynb` with all the code used in the project.
+notebooks: Contains the Jupyter notebook `Eurosat_project.ipynb` with all the code used in the project.
 scripts: (Optional) Python scripts for running the code outside of Jupyter (if applicable).
 data: A few sample images or references (Note: The full dataset should not be included due to size constraints).
 images: Contains images for visualizations like training plots.
@@ -21,7 +21,7 @@ satellite_image_classifier.h5: The saved trained model (optional, depending on f
 Before running the project, ensure you have Python 3.11 installed.
 
 ## Dataset
-The EuroSAT RGB dataset, used in this project, is available for download here https://zenodo.org/records/7711810#.ZAm3k-zMKEA. The dataset consists of 27,000 images categorized into ten different land cover classes:
+The EuroSAT RGB dataset, used in this project, is available for download here 'https://zenodo.org/records/7711810#.ZAm3k-zMKEA'. The dataset consists of 27,000 images categorized into ten different land cover classes:
 
 
 1. AnnualCrop
